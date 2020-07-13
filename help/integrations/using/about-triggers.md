@@ -55,7 +55,7 @@ Here are a few [!DNL Triggers] best practices:
 
 >[!CAUTION]
 >
->The example below is not provided out-of-box. This is a specific example from various possible implementations.
+>The example below is not provided out-of-box. This is one specific example out of various possible implementations.
 
 The pipeline events are downloaded automatically. These events can be monitored using a form.
 
